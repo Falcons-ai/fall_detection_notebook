@@ -57,6 +57,14 @@ pip install ultralytics
 - Call the `jupyter notebook fall_detection.ipynb` function to start fall detection.
 
 
+## Output
+
+The capture of a fall gets written to the run directory for review examples below:
+
+Fall Detected #1            |  Fall Detected  #2          |  Fall Detected  #3
+:-------------------------:|:-------------------------:|:-------------------------:
+![](assets/output_0.jpg)  |  ![](assets/output_1.jpg) |  ![](assets/output_2.jpg)
+
 ## Important Notes
 
 - Ensure sufficient computational resources for real-time processing, depending on the video resolution and frame rate.
